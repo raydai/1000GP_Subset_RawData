@@ -4,11 +4,7 @@
 
 
 <snippet>
-  <content><![CDATA[
-# ${1000GP_Subset_RawData}
-
-TODO: Write a project description
-
+  <content>
 ## Installation
 
 TODO: Describe the installation process
@@ -34,6 +30,6 @@ TODO: Write credits
 ## License
 
 TODO: Write license
-]]></content>
+</content>
   <tabTrigger>readme</tabTrigger>
 </snippet>
