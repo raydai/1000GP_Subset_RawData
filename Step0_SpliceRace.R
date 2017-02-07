@@ -1,3 +1,7 @@
+#This file can use for get sample ID and haplotype location ID.
+#To get screen haplotype and legend, please continue to work on step2 and step3
+
+
 #Subset 1000GP by race
 SampleRawData=read.table('1000GP_Phase3.sample', header = TRUE)
 CHR22.legned=read.table('1000GP_Phase3_chr22.legend', header = TRUE)
